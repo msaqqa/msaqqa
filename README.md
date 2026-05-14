@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Mahmoud Alsaqqa 👋</h1>
   
-  <h3>🚀 Senior Full-Stack Developer | React & Next.js Expert</h3>
+  <h3>Senior Frontend Developer | React & Next.js</h3>
   
   <p>
     Building high-performance, scalable web applications with <b>Clean Architecture</b> and <b>Production-Ready Code</b>.
@@ -40,18 +40,12 @@ Frontend Developer specializing in **React** and **Next.js**, focused on buildin
 ---
 
 ### 🔭 Current Work & Experience
-- 🏗️ **Currently building:** [Hekaya](https://github.com/msaqqa) — A modern web application using Next.js.
-- 🧪 **Project Lead:** [Liberation Language Labs](https://github.com/msaqqa) — CMS-driven platform with Payload CMS.
+- 🧪 **Project:** [Liberation Language Labs](https://github.com/msaqqa) — CMS-driven platform with Payload CMS.
 - 🏢 **Professional Background:** Previously worked with **Taqat**, **MMB Technology**, and **GGateway**, delivering high-quality E-commerce and Dashboard solutions.
 
 ---
 
 ### 📈 GitHub Ecosystem
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msaqqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahmoud's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaqqa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msaqqa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
